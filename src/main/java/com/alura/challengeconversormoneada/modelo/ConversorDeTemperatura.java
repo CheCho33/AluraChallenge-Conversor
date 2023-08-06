@@ -12,6 +12,7 @@ public class ConversorDeTemperatura {
     public String cantidadConvertir;
     public Double escalaMultiplicador;
     public Double escalaSumando;
+    public ValidarValor validarValor = new ValidarValor();
 
 
     static final String[] METODOCONVERSION  = { "Centigrados a Kelvin", "Centigrados a Kelvin"};
@@ -22,6 +23,10 @@ public class ConversorDeTemperatura {
 
         if (this.METODOCONVERSION[0].equals(this.seleccionMetodoconversion)) {
             this.cantidadConvertir = JOptionPane.showInputDialog(TITULO3);
+            if(!validarValor.validarSoloNumero(this.cantidadConvertir)){
+                this.resultado = "Valor no valido";
+                return this.resultado;
+            }
             this.escalaMultiplicador = 1.8;
             this.escalaSumando = 32.0;
             FuncionConversora funcionConversora = new FuncionConversora(this.cantidadConvertir, this.escalaMultiplicador, this.escalaSumando);
@@ -30,6 +35,10 @@ public class ConversorDeTemperatura {
 
         } else if (this.METODOCONVERSION[1].equals(this.seleccionMetodoconversion)) {
             this.cantidadConvertir = JOptionPane.showInputDialog(TITULO3);
+            if(!validarValor.validarSoloNumero(this.cantidadConvertir)){
+                this.resultado = "Valor no valido";
+                return this.resultado;
+            }
             this.escalaMultiplicador = 0.556;
             this.escalaSumando = (-32.0);
             FuncionConversora funcionConversora = new FuncionConversora(this.cantidadConvertir, this.escalaMultiplicador, this.escalaSumando );
