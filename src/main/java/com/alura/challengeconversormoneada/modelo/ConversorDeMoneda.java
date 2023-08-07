@@ -23,7 +23,6 @@ public class ConversorDeMoneda {
 
         if (this.METODOCONVERSION[0].equals(this.seleccionMetodoconversion)) {
             this.cantidadConvertir = JOptionPane.showInputDialog("Ingrese la cantidad de dinero que desea convertir");
-
             if(!validarValor.validarSoloNumero(this.cantidadConvertir)){
                 this.resultado = "Valor no valido";
                 return this.resultado;

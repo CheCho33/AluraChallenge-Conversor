@@ -11,15 +11,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 
 Osrc/main/java/com/alura/challengeconversormoneada/modelo/FuncionConversora.java,a\6\a6702091700cd9257b96f6fe0b2f31a1bb15b5ee
-‚
-Rsrc/main/java/com/alura/challengeconversormoneada/modelo/AplicacionConversora.java,c\c\cc69bc398fb03e6bdad50b7beacda4de42832258
-‚
-Rsrc/main/java/com/alura/challengeconversormoneada/modelo/ConversorDeDistancia.java,8\4\84d49b9d1534e16d1d8439cc1e2d6393dee54594
-
-Osrc/main/java/com/alura/challengeconversormoneada/modelo/ConversorDeMoneda.java,6\3\631171a8e32ffefa3b94283292ff8956226f8e40
-„
-Tsrc/main/java/com/alura/challengeconversormoneada/modelo/ConversorDeTemperatura.java,b\1\b1da741232c4fe71abfb99bc6e4305c3d97e60ed
 z
 Jsrc/main/java/com/alura/challengeconversormoneada/modelo/ValidarValor.java,8\1\81320a86396ff46ded682c5c0e1f6aad74dfb3df
-t
-Dsrc/main/java/com/alura/challengeconversormoneada/modelo/Inicio.java,8\e\8e61dc5dd2b81de2c5db2a844753ef3cea278e88

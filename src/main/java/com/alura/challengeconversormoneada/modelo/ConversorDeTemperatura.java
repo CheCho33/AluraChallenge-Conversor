@@ -31,7 +31,7 @@ public class ConversorDeTemperatura {
             this.escalaSumando = 32.0;
             FuncionConversora funcionConversora = new FuncionConversora(this.cantidadConvertir, this.escalaMultiplicador, this.escalaSumando);
 
-            this.resultado = "La Temperatura en Kelvin es: " + funcionConversora.toString() + " °K";
+            this.resultado = "La Temperatura en grados Kelvin es: " + funcionConversora.toString() + " °K";
 
         } else if (this.METODOCONVERSION[1].equals(this.seleccionMetodoconversion)) {
             this.cantidadConvertir = JOptionPane.showInputDialog(TITULO3);
@@ -43,7 +43,7 @@ public class ConversorDeTemperatura {
             this.escalaSumando = (-32.0);
             FuncionConversora funcionConversora = new FuncionConversora(this.cantidadConvertir, this.escalaMultiplicador, this.escalaSumando );
 
-            this.resultado =  "La Temperatura en Centigrados es: " + funcionConversora.toString() + " °C";
+            this.resultado =  "La Temperatura en grados Centigrados es: " + funcionConversora.toString() + " °C";
         }
 
         return this.resultado;

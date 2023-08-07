@@ -1,32 +1,0 @@
-
-p
-java:S1104"SMake TITULO1 a static final constant or non-public and provide accessors if needed.(‰›¾ë8êÇÆŞœ1
-p
-java:S1104"SMake TITULO2 a static final constant or non-public and provide accessors if needed.(ë™ÿ8êÇÆŞœ1
-p
-java:S1104	"SMake TITULO3 a static final constant or non-public and provide accessors if needed.(±ÛĞ8êÇÆŞœ1
-‡
-java:S1104
-"eMake seleccionMetodoconversion a static final constant or non-public and provide accessors if needed.(à£‰ıÿÿÿÿ8ëÇÆŞœ1
-r
-java:S1104"UMake resultado a static final constant or non-public and provide accessors if needed.(¶÷Øº8ëÇÆŞœ1
-
-java:S1104"]Make cantidadConvertir a static final constant or non-public and provide accessors if needed.(ô¶¿üÿÿÿÿ8ëÇÆŞœ1
-t
-java:S1104"RMake escala a static final constant or non-public and provide accessors if needed.(¥ÙÅ°ıÿÿÿÿ8ëÇÆŞœ1
-~
-java:S1104"\Make METODOCONVERSION a static final constant or non-public and provide accessors if needed.(€šÍ°úÿÿÿÿ8ëÇÆŞœ1
-z
-java:S1104"XMake validarValor a static final constant or non-public and provide accessors if needed.(¯ıèûùÿÿÿÿ8ÒÛÒæœ1
-E
-java:S5411"(Use a primitive boolean expression here.(ëåä¾8ÒÛÒæœ1
-E
-java:S5411#"(Use a primitive boolean expression here.(ëåä¾8‹Ôæœ1
-Y
-java:S4973"<Strings and Boxed types should be compared using "equals()".(’ÉÕÆ8ëÇÆŞœ1
-^
-java:S4973!"<Strings and Boxed types should be compared using "equals()".(ƒ€Ã£üÿÿÿÿ8ëÇÆŞœ1
-n	java:S116"RRename this field "TITULO1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰›¾ë8óÇÆŞœ1
-n	java:S116"RRename this field "TITULO2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë™ÿ8óÇÆŞœ1
-n	java:S116	"RRename this field "TITULO3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±ÛĞ8óÇÆŞœ1
-|	java:S116"[Rename this field "METODOCONVERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€šÍ°úÿÿÿÿ8óÇÆŞœ1
