@@ -11,8 +11,10 @@ Tarea de clase. Es un conversor que pemite cambiar monedas ( de dolar a pesos co
 :punch: Proyecto FINALIZADO :punch:
 </h4
 
-## :hammer:Funcionalidades del proyecto
+## :running: Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Conversor de moneda- `Funcionalidad 2`: Conversor de distancia- `Funcionalidad 3a`: conversor de temperatura
+- `Funcionalidad 1`: Conversor de moneda
+- `Funcionalidad 2`: Conversor de distancia
+- `Funcionalidad 3a`: conversor de temperatura
 
 
